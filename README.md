@@ -1,18 +1,18 @@
-# Hi there, I'm Chandra Shekhar Kantlam 👋
+# Hi there, I'm Chandra Shekhar 👋
 
 Welcome to my GitHub profile!
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 I am a results-driven developer with hands-on experience in **ReactJS**, and **Machine Learning fundamentals**. I enjoy building clean, scalable user interfaces and exploring how data-driven intelligence can be applied to real-world problems.
 
-I am passionate about continuous learning, problem-solving, and building meaningful products using modern technologies.
+I am passionate about continuous learning, problem-solving, building meaningful products using modern technologies and creating engaging visual content.
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🛠️ Skills & Technologies
 
 ### Programming Languages
 - **JavaScript**
@@ -51,7 +51,7 @@ I am passionate about continuous learning, problem-solving, and building meaning
 
 ---
 
-## 📚 Learning Journey
+### 📚 Learning Journey
 
 - I actively invest time in improving both technical and communication skills:
 - Continuous learning in **Machine Learning** and **AI concepts**
@@ -60,14 +60,28 @@ I am passionate about continuous learning, problem-solving, and building meaning
 
 ---
 
-## 🚀 What I’m Working On
+### 🚀 What I’m Working On
 
 - Expanding **Machine Learning** knowledge through projects
 - Building and refining **ReactJS** applications
+---
+
+### 🤖 AI & Automation
+- AI-powered applications
+- Prompt engineering
+- Automation scripts and workflows
 
 ---
 
-## 📫 Connect With Me
+### 🎬 Creative & Visual Skills
+- **Interactive Animated Videos**
+- Motion-based storytelling
+- Explainer-style animations
+- UI/UX-focused animations for web and product demos
+
+---
+
+### 📫 Connect With Me
 
 - GitHub: https://github.com/ai-shekhar  
 - Open to collaboration, learning, and interesting project discussions
